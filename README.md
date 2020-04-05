@@ -5,5 +5,5 @@ List of courses taken and realted notes, exercies, and lab
 
 - [py-socratica](https://github.com/klotfi/ecor/tree/master/py-socratica)
 
-	- an intro course in python
+    an intro course in python
   `
